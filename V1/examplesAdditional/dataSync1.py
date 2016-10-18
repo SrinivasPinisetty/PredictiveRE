@@ -48,7 +48,7 @@ lambda q, a: {
 ###############################################################################
 ###Define DFA describing property to enforcer phi.##############################
 ######### (actions, states, initial state, final states, transition function)##
-##This DFA defines property P1 described in the paper 
+##This DFA defines property varphi_1 described in the paper 
 ####"Every a1.inform should eventually end with an a1.ack or a2.ack". 
 ###Set of actions Sigma = {a1.inform, a2.inform, a1.ack, a2.ack}.##############
 ###############################################################################
